@@ -4,9 +4,8 @@ This project implements a lightweight anomaly detection system for LPWAN-based I
 ⚠️ This project is currently a work in progress and is intended for learning, experimentation, and demonstration purposes.
 
 ## Features
-Symbolic representation of network traffic data
-
-Sequence generation using sliding window approach
+* Symbolic representation of network traffic data
+* Sequence generation using sliding window approach
 
 GRU-based deep learning model for sequence prediction
 
