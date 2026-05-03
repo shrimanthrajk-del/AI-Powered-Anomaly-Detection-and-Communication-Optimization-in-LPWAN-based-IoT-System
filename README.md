@@ -113,5 +113,5 @@ Integrate with live IoT systems
 Due to size constraints, the dataset is hosted externally:
 https://drive.google.com/drive/folders/1aGqEdRtFPELTTzuBT_bvc5JWgqH8KLjq?usp=drive_link
 
-Conclusion
+## Conclusion
 This project demonstrates an efficient approach for anomaly detection in LPWAN IoT systems using GRU-based sequence modeling, while ongoing improvements are being made as part of its development
